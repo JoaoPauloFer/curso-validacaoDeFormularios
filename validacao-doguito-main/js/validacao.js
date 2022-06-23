@@ -54,6 +54,9 @@ const mensagensDeErro = {
     },
     estado: {
         logradouro: 'O campo de estado não pode estar vazio',
+    },
+    preco: {
+        valueMissing: 'O campo de preço não pode estar vazio.'
     }
 }
 
